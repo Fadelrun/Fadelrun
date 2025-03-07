@@ -18,7 +18,7 @@
 2. [Калькулятор на TypeScript и React](https://github.com/Fadelrun/Calculator)  
    Калькулятор, написанный с использованием TypeScript и React. Реализованы базовые арифметические операции и современный интерфейс.
 
-3. [Сайт на SCSS](https://github.com/Fadelrun/LandingPage)  
+3. [Лендинг на SCSS](https://github.com/Fadelrun/LandingPage)  
    Простой и стильный сайт, использующий SCSS для оформления. Проект демонстрирует возможности SCSS, такие как переменные, миксины и вложенные правила.
 
 4. [Сервис по распознаванию речи с использованием WebSpeech API](https://github.com/Fadelrun/Speech-Recogniton-Service)  
