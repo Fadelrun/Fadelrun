@@ -6,7 +6,8 @@
 - JavaScript
 - React
 - TypeScript
-- SCSS
+- HTML
+- CSS(SCSS)
 - Vite
 - REST API
 - Git, GitHub
